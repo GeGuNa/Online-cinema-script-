@@ -4,3 +4,6 @@ so i've made  script for cinema ; i didn't tested every function and i dont reme
 
 
 Used things: php/pdo/mysql
+
+
+p.s  don't judge because this product is too old and there's too many php files ; i didn't used frameworks to create this thing
