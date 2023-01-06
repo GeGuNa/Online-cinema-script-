@@ -1,0 +1,1 @@
+define("acl","onRequest",function(){var d=4,t=5;$("body").on("change",".js-acl_dropdown .js-radio input",function(a){var s=$(this),n=s.parents(".js-acl_dropdown"),o=n.data("name")+n.data("postfix");$("#passwd_"+o).toggleClass("hide",s.val()!=d),$("#acclist_"+o).toggleClass("hide",s.val()!=t)})});

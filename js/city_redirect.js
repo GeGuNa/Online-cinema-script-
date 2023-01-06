@@ -1,0 +1,1 @@
+define("city_redirect","onRequest",function(){$(function(){$("#main").on("geoSelected",function(e,r){var t,n,i=$("#city_redirect");i.length&&r.valid&&(t=new Url(i.data("url")),(n=i.data()).cityKey&&(t.query[n.cityKey]=r.city),n.regionKey&&(t.query[n.regionKey]=r.region),n.countryKey&&(t.query[n.countryKey]=r.country),Spaces.redirect(t.url()))})})});

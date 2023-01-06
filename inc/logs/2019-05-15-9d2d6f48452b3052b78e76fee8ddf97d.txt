@@ -1,0 +1,86 @@
+Time : 04:49:30
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:49:30
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:49:08
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:49:08
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:49:07
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:49:07
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:49:07
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:49:06
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:48:03
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:48:02
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:48:02
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:48:01
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:48:01
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:42
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:42
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:41
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:14
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:13
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:13
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:12
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:12
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:12
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:11
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:47:11
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:46:50
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:46:27
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:46:26
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'
+
+Time : 04:45:51
+SQLSTATE[28000] [1045] Access denied for user 'film'@'localhost' (using password: NO)
+
+Time : 04:45:10
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'film'

@@ -1,0 +1,1 @@
+SQLSTATE[HY000]: General error: 1364 Field 'user_birth_day' doesn't have a default value INSERT INTO persons(user_name, user_surn, user_nick, user_status, user_coins,  user_reg_time, user_on_time, email, password) VALUES(?,?,?,?,?,?,?,?,?); 

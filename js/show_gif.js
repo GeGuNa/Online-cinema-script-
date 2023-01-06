@@ -1,0 +1,1 @@
+define("show_gif","init",function(){window.SpacesShowGif=function(t){var e,i=t.getAttribute("data-gif"),r=ge(".preview",t)[0];return t.setAttribute("data-gif",r.src),(e=r.cloneNode(!0)).src=i,r.width&&(e.width=r.width,e.height=r.height),insert_after(e,r),r.parentNode.removeChild(r),!1}});

@@ -1,0 +1,1 @@
+define("config","init",function(){window.Spaces=window.Spaces||{},Spaces.config={support:{name:L("Support"),what:L("сообществе"),addr:"/soo/support"}}});

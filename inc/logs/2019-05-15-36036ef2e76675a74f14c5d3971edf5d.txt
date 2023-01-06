@@ -1,0 +1,2 @@
+Time : 04:43:55
+SQLSTATE[42000] [1044] Access denied for user ''@'localhost' to database 'films'

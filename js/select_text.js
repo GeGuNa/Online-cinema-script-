@@ -1,0 +1,1 @@
+define("select_text","init",function(){$("body").on("focus",".js-copy-input",function(t){$(this).select()})});

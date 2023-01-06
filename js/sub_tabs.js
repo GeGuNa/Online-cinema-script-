@@ -1,0 +1,1 @@
+define("sub_tabs","init",function(){define("sub_tabs","onRequest",function(){var s=function(s){s.preventDefault(),$(this).toggleClass("js-clicked").parents(".js-sub_tabs").toggleClass("sub-tabs_open")};"operamini"==Device.browser?$(".js-sub_tabs_toggle").click(s):$("#main").on("click",".js-sub_tabs_toggle",s)})});

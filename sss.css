@@ -1,0 +1,24 @@
+@font-face {
+    font-family:arial;
+    src:url('../fonts/arial.ttf');
+}
+@font-face {
+    font-family:mtavruli;
+    src:url('../fonts/mtavruli.ttf');
+}
+@font-face {
+    font-family:lari;
+    src:url('../fonts/lari.otf');
+}
+
+.header-menu li a {
+font-family: mtavruli !important;
+}
+
+.header-login span {
+font-family: mtavruli;
+}
+
+.lari {
+font-family: lari !important;
+}
